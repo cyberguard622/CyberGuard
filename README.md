@@ -151,8 +151,8 @@ This project was developed for **educational and cybersecurity awareness purpose
 
 # 👨‍💻 Developed By
 
-**Sinura Damsath Perera**
-**Vihas Dinsitha Kodithuwakku**
+**Sinura Damsath Perera**<br>
+**Vihas Dinsitha Kodithuwakku**<br>
 **Dulnith Sanvidu Bandara**
 
 *Students at Ananda College*
